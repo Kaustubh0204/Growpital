@@ -1,0 +1,81 @@
+body{
+    background-color: #1D1F27;
+}
+
+.centerbutton{
+    color: black;
+    background-color: #FEBF32;
+    border-style: none;
+    font-weight: 600;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -10px;
+    margin-top: -10px;
+    
+}
+
+.customnavbar{
+    background-color: #17171A;
+    color: white;
+    padding: 15px;
+    font-weight: 600;
+}
+
+.growpitallogo{
+    background: linear-gradient(91.26deg, #72F6D1 0%, #07E57D 21.87%, #A0ED8D 55.73%, #FED365 81.77%, #FAA49E 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.custommodal{
+    background-color: #2A2D3C;
+}
+
+.greenbox{
+    background: rgba(118, 226, 104, 0.25); 
+    color: #CCCDCC; 
+    font-size: 12px;      
+    padding-top: 15px; 
+    border-radius: 10px;
+}
+
+.transactionbox{
+    color: #CCCDCC; 
+    border-style: solid; 
+    border-color: #ABAFC4; 
+    border-width: 0.5px; 
+    border-radius: 10px; 
+    padding: 10px;
+}
+
+.smcircle{
+    height: 40px;
+    width: 40px;
+    background-color: #242632;                      
+    border-radius: 50%; 
+    font-weight: 500; 
+    color: white; 
+    padding: 8px; 
+    float: right;
+}
+
+.button1{
+    width: 30%; 
+    font-weight: 600; 
+    background-color: #FEBF32; 
+    color: black; 
+    border-style: none;
+}
+
+.button2{
+    width: 30%; 
+    font-weight: 600;
+     margin-left: 5px; 
+     background-color: #242632; 
+     color: #ABAFC4;
+     border-style: none;
+}
